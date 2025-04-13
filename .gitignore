@@ -48,3 +48,6 @@ app.*.map.json
 # Firebase and API Keys
 google-services.json
 lib/global/global_var.dart
+android/app/src/main/AndroidManifest.xml
+
+
